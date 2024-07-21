@@ -1,10 +1,13 @@
 {
   "name": "text-based-adventure-game-giaic",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "text-based-adventure-game-giaic": "index.js"
   },
   "keywords": [],
   "author": "",
